@@ -1,5 +1,5 @@
 # Įrėmintas pasisveikinimas
-Programa, kuri nuskaito vartotojo vardą ir atspausdina įrėmintą pasisveikinimą.
+Programa, kuri nuskaito vartotojo vardą, norima rėmelio plotį ir atspausdina įrėmintą pasisveikinimą.
 
 ## Įdiegimo ir naudojimosi instrukcija
 1. Iš [Releases](https://github.com/metroff/VU_OP_uzd1/releases) aplanko parsisiųskite vieną iš programos versijų ir ją išsiarchyvuokite.
