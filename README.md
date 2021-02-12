@@ -17,6 +17,17 @@ Iveskite remelio ploti (daugiau nei 2): 3
 * Sveikas, Marius! *
 ********************
 ```
+Nuo [v0.2](https://github.com/metroff/VU_OP_uzd1/releases/tag/v0.2):
+```
+Iveskite savo varda: Aiste
+Iveskite remelio ploti (daugiau nei 2): 5
 
+******************
+*                *
+* Sveika, Aiste! *
+*                *
+******************
+```
 ## Changelog
 * [v0.1](https://github.com/metroff/VU_OP_uzd1/releases/tag/v0.1) - Atspausdina įrėmintą pasisveikinimą
+* [v0.2](https://github.com/metroff/VU_OP_uzd1/releases/tag/v0.2) - Pakeičia žodį ```Sveikas``` į ```Sveika```, atsižvelgiant į vartotojo lytį.
