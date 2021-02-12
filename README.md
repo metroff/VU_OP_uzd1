@@ -9,6 +9,7 @@ Programa, kuri nuskaito vartotojo vardą ir atspausdina įrėmintą pasisveikini
    3.1 Savo vardą;
    
    3.2 Norimą rėmelio plotį (nuo v1.0);
+   
 ```
 Iveskite savo varda: Marius
 Iveskite remelio ploti (daugiau nei 2): 3
